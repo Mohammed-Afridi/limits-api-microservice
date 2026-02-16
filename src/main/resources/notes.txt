@@ -3,3 +3,6 @@
 from configuration and after that centralized configuration
 
 leave this project here and , create a new project to setup spring cloud config server
+
+Okay after the setup of config-server now if you do http://localhost:8080/limits
+you will receive an response from the properties which is in local git repo and not configuration file
