@@ -1,3 +1,5 @@
 #We have centralized client , which we added during project creation. Service config client
 #We will start with a simple hard coded rest api then we would enhance it to pick it up
 from configuration and after that centralized configuration
+
+leave this project here and , create a new project to setup spring cloud config server
